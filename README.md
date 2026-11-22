@@ -14,12 +14,6 @@
 
 ## My Products
 
-### [MusicCanvas](https://github.com/lkkchen/MusicCanvas)
-
-Analyzes audio with the Web Audio API and draws it on canvas in sync with the sound.
-
-## Featured Skills
-
 A selection of my open-source AI agent skills for UI design, interactive web animation, READMEs, and creative assets.
 
 ### [svg-line-story](https://github.com/lkkchen/svg-line-story)
