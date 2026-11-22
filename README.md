@@ -10,7 +10,6 @@
 ```
 
 **My Website** · [lkkchen.cn](https://lkkchen.cn/)  
-**How to reach me** · [lkkchenlkk@gmail.com](mailto:lkkchenlkk@gmail.com)
 
 ## My Products
 
